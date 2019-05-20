@@ -1,4 +1,4 @@
-# [LimitedInputTextFiled] (https://github.com/yonsjl/PictureBed/raw/master/LimitedInputTextFiled_02.png)
+# LimitedInputTextFiled
 
 ------
 
